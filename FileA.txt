@@ -1,0 +1,4 @@
+﻿Warszawa Zachodnia,Łódź Kaliska,990,autobus
+Łódź Kaliska,Berlin Główny,12E,samolot
+Berlin Główny,Szczecin Podgrodzie,skuter
+Szczecin Podgrodzie,Łódź Fabryczna,007,pociąg

@@ -1,0 +1,4 @@
+﻿Rzeszów,Lublin,87,pociąg
+Lublin,Gdańsk,12E,samolot
+Gdańsk,Sztokholm,kabina 35,prom
+Sztokholm,Oslo,10,autobus
