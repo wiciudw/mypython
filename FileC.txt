@@ -1,0 +1,4 @@
+﻿Szczecin Podgrodzie,Łódź Fabryczna,007,pociąg
+Lodz Kaliska,Berlin Główny,12E,samolot
+Warszawa Zachodnia,Lodz Kaliska,990,autobus
+Berlin Główny,Szczecin Podgrodzie,skuter

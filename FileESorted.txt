@@ -1,0 +1,13 @@
+Warszawa Zachodnia,Lodz Kaliska,990,autobus
+Lodz Kaliska,Berlin G³ówny,12E,samolot
+Berlin G³ówny,Szczecin Podgrodzie,skuter
+Szczecin Podgrodzie,£ódŸ Fabryczna,007,poci¹g
+£ódŸ Fabryczna,Zduñska Wola,25,£KA
+Zduñska Wola,Ostrawa,P77,Pendolino
+Ostrawa,Zagrzeb,Przy Oknie,Alfa Romeo (blablacar)
+Zagrzeb,Zadar,koñ
+Zadar,Aleksandria,kajuta 99,³ódŸ podwodna "Ikar"
+Aleksandria,Kair,wielb³¹d
+Kair,Elijat,d¿ip
+Elijat,Bombaj,jacht
+Bombaj,D¿akarta,kajak

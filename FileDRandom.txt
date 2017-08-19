@@ -1,0 +1,13 @@
+Szczecin Podgrodzie,£ódŸ Fabryczna,007,poci¹g
+Elijat,Bombaj,jacht
+Aleksandria,Kair,wielb³¹d
+Berlin G³ówny,Szczecin Podgrodzie,skuter
+Bombaj,D¿akarta,kajak
+£ódŸ Fabryczna,Zduñska Wola,25,£KA
+Kair,Elijat,d¿ip
+Zduñska Wola,Ostrawa,P77,Pendolino
+Ostrawa,Zagrzeb,Przy Oknie,Alfa Romeo (blablacar)
+Zagrzeb,Zadar,koñ
+Warszawa Zachodnia,Lodz Kaliska,990,autobus
+Zadar,Aleksandria,kajuta 99,³ódŸ podwodna "Ikar"
+Lodz Kaliska,Berlin G³ówny,12E,samolot
